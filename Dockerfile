@@ -1,7 +1,7 @@
 FROM node:16.14-alpine
 
-LABEL maintainer="Pensk <superpensk@gmail.com>"
-LABEL git="https://github.com/Pensk/aws-ses-v2-local"
+LABEL maintainer="Vibhav <churi.vibhav@gmail.com>"
+LABEL git="https://github.com/churivibhav/aws-ses-v2-local"
 LABEL description="Run aws-ses-v2-local server in docker"
 
 WORKDIR /root
